@@ -8,4 +8,5 @@
 
 ## Materials
 
+* https://www.w3schools.com/django/
 * https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction
